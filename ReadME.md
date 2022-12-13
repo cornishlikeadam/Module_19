@@ -19,7 +19,9 @@ All in pure Python. No front‑end experience required.
 
 # Installation Guide
 
-Install the app's dependencies first.
+To review the codes, download and open fintech_finder.py
+
+Then Install the app's dependencies.
 
 ```
   pip install pandas
@@ -44,7 +46,6 @@ Transaction:
 ![Transaction](./Images/transaction.png)
 
 
-To review the codes, download and open fintech_finder.py
 
 ---
 
